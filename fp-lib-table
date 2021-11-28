@@ -1,4 +1,7 @@
 (fp_lib_table
   (lib (name LED_SMD_RGB)(type KiCad)(uri ${KIPRJMOD}/LED_SMD_RGB.pretty)(options "")(descr ""))
   (lib (name TestPoint_Small)(type KiCad)(uri ${KIPRJMOD}/TestPoint_Small.pretty)(options "")(descr ""))
+  (lib (name Perforation)(type KiCad)(uri ${KIPRJMOD}/Perforation.pretty)(options "")(descr ""))
+  (lib (name ToolingHole)(type KiCad)(uri ${KIPRJMOD}/ToolingHole.pretty)(options "")(descr ""))
+  (lib (name led-panel)(type KiCad)(uri ${KIPRJMOD}/led-panel.pretty)(options "")(descr ""))
 )
