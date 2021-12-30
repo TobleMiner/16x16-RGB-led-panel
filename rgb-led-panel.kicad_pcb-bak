@@ -2,7 +2,7 @@
 
   (general
     (thickness 1)
-    (drawings 21)
+    (drawings 22)
     (tracks 3968)
     (zones 0)
     (modules 342)
@@ -91,7 +91,7 @@
       (mirror false)
       (drillshape 0)
       (scaleselection 1)
-      (outputdirectory ""))
+      (outputdirectory "fab"))
   )
 
   (net 0 "")
@@ -9923,6 +9923,9 @@
     )
   )
 
+  (gr_text "Pin 1 of LEDs is in upper right corner!" (at 64.125 44.25) (layer F.SilkS)
+    (effects (font (size 1 1) (thickness 0.15)))
+  )
   (gr_text JLCJLCJLCJLC (at 64.125 82) (layer F.SilkS)
     (effects (font (size 1 1) (thickness 0.15)))
   )
