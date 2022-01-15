@@ -8,3 +8,5 @@ The board has been designed for use with
 [this](https://github.com/TobleMiner/RGB-led-nametag) project. However it
 is fairly generic and could most certainly be used in your own projects,
 too.
+
+![Screenshot of PCB top side](/assets/pcb_top.png)
